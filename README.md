@@ -1,6 +1,6 @@
 # Goal-Kick-Soccer-Player-Wikipedia-Page-Summarization-with-Python
 
-![](https://github.com/Prakashpsk/Goal-Kick-Soccer-Player-Wikipedia-Page-Summarization-with-Python/blob/main/champion.jpeg)
+![](https://github.com/Prakashpsk/Goal-Kick-Soccer-Player-Wikipedia-Page-Summarization-with-Python/blob/main/teame_cup.jpg)
  
 # Introduction
 
