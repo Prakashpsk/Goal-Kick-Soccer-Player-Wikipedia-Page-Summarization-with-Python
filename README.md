@@ -1,4 +1,6 @@
 # Goal-Kick-Soccer-Player-Wikipedia-Page-Summarization-with-Python
+
+![](https://github.com/Prakashpsk/Goal-Kick-Soccer-Player-Wikipedia-Page-Summarization-with-Python/blob/main/champion.jpeg)
  
 # Introduction
 
@@ -62,7 +64,6 @@ Join us on this exciting journey as we unravel the stories behind soccer's fines
 - Acknowledge any libraries, frameworks, or datasets used in the project
 - Attribute sources of inspiration or references for the code implementation
 
-# About the Author
+## About the Author
 
-- Brief biography or background information about the presenter
-- Contact information or links to personal/professional profiles for further collaboration or inquiries
+[Prakash.P] is a [Data Scientist] with expertise in [Modeling]. Feel free to reach out for any questions or collaborations[prakash2822001@gmail.com].
